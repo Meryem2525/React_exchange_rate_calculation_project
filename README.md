@@ -1,4 +1,11 @@
 # React_exchange_rate_calculation_project
---Bu projemde döviz kuru hesaplamalrını yaptım 
--- React öğrenmek için çok güzel bir deneyim sağlayan projedir
+-- React ile geliştirilmiş, güncel döviz kurlarını takip etmenizi sağlayan bir web uygulaması.
+
+## Özellikler
+
+-- Güncel döviz kurları
+-- Farklı para birimleri arasında dönüşüm
+-- Kullanıcı dostu arayüz
+-- Gerçek zamanlı veri güncellemeleri
+
 
